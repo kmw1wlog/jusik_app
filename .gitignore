@@ -1,0 +1,5 @@
+.next/
+node_modules/
+*.log
+.env*
+ChatGPT Image Jun 9, 2026, 07_36_55 PM*.png
